@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wextra CMakeFiles/test_pwm.dir/tests/test_pwm.c.o -o test_pwm  libremote_peripheral.a 

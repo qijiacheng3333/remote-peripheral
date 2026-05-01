@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wextra CMakeFiles/test_transport.dir/tests/test_transport.c.o -o test_transport  libremote_peripheral.a 

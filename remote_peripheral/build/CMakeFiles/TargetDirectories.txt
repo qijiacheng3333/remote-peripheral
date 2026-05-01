@@ -1,0 +1,10 @@
+/home/qjc/Claude_code/code1/remote_peripheral/build/CMakeFiles/remote_peripheral.dir
+/home/qjc/Claude_code/code1/remote_peripheral/build/CMakeFiles/test_protocol.dir
+/home/qjc/Claude_code/code1/remote_peripheral/build/CMakeFiles/test_transport.dir
+/home/qjc/Claude_code/code1/remote_peripheral/build/CMakeFiles/test_gpio.dir
+/home/qjc/Claude_code/code1/remote_peripheral/build/CMakeFiles/test_i2c.dir
+/home/qjc/Claude_code/code1/remote_peripheral/build/CMakeFiles/test_spi.dir
+/home/qjc/Claude_code/code1/remote_peripheral/build/CMakeFiles/test_pwm.dir
+/home/qjc/Claude_code/code1/remote_peripheral/build/CMakeFiles/test.dir
+/home/qjc/Claude_code/code1/remote_peripheral/build/CMakeFiles/edit_cache.dir
+/home/qjc/Claude_code/code1/remote_peripheral/build/CMakeFiles/rebuild_cache.dir

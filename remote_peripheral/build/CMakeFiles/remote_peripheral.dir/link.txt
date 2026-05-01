@@ -1,0 +1,2 @@
+/usr/bin/ar qc libremote_peripheral.a CMakeFiles/remote_peripheral.dir/src/mcu_protocol.c.o CMakeFiles/remote_peripheral.dir/src/mcu_transport.c.o CMakeFiles/remote_peripheral.dir/src/remote_gpio.c.o CMakeFiles/remote_peripheral.dir/src/remote_i2c.c.o CMakeFiles/remote_peripheral.dir/src/remote_spi.c.o CMakeFiles/remote_peripheral.dir/src/remote_pwm.c.o
+/usr/bin/ranlib libremote_peripheral.a

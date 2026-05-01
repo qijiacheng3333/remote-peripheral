@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wextra CMakeFiles/test_gpio.dir/tests/test_gpio.c.o -o test_gpio  libremote_peripheral.a 

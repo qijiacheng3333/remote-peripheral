@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wextra CMakeFiles/test_spi.dir/tests/test_spi.c.o -o test_spi  libremote_peripheral.a 

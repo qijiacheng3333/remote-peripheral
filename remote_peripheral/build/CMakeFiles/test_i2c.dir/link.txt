@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wextra CMakeFiles/test_i2c.dir/tests/test_i2c.c.o -o test_i2c  libremote_peripheral.a 

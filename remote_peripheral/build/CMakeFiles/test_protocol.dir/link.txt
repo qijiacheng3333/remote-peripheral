@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wextra CMakeFiles/test_protocol.dir/tests/test_protocol.c.o -o test_protocol  libremote_peripheral.a 
